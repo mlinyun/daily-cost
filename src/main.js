@@ -1,4 +1,5 @@
-import {createApp} from "vue";
+import { createApp } from "vue";
+import "lib-flexible/flexible"; // 引入 lib-flexible
 import App from "./App.vue";
 import router from "./router"; // 1. 导入路由实例
 
