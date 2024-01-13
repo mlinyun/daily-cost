@@ -1,7 +1,34 @@
-# Vue 3 + Vite
+# 人人都能做的 Vue 3 记账本实战
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 项目简介
 
-## Recommended IDE Setup
+### 定位
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+记账本主要功能用于使用者可以在手机端登录账号，然后方便的进行记账等功能。
+
+### 特色
+
+在线的 API，最新版本的 Vue3，优秀漂亮的界面，以及手机端的适配。
+
+### 项目架构
+
+#### 项目结构图
+
+![2-13](./src/assets/doc/项目结构图.png)
+
+#### 技术架构图
+
+![2-2](./src/assets/doc/技术架构图.png)
+
+### 一般约束
+
+1. 开发环境约束：
+    - 开发工具：VSCode 或 WebStorm
+    - 开发语言：HTML5、JavaScript、Vue.js
+2. 时间约束：项目开发周期为 2 个工作日，需要开发者合理规划时间。
+3. 技术约束：HTML5、CSS3、JavaScript、Canvas、Echarts、Vant、Axios。
+4. 其他约束：开发者需在完成项目需求的前提下，考虑编码规范、页面优化等因素。
+
+### 项目预览
+
+![图片描述](./src/assets/doc/项目预览.png)
