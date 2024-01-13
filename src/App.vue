@@ -1,6 +1,7 @@
 <template>
   <div>
-    App 页面
+    <!-- 设置路由页面显示区域 -->
+    <router-view></router-view>
   </div>
 </template>
 
